@@ -29,7 +29,7 @@ function App() {
         <div className="App">
             <div align="center">
             <h1>Ryan's React-a-Mole</h1>
-            <h1>{score}</h1>
+            <h1>Score {score}</h1>
             {createMoleHill()}
             </div>
         </div>
