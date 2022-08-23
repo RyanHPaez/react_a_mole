@@ -1,6 +1,11 @@
 {
   "name": "react_a_mole",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.14.2",
+    "npm": "8.13.1",
+    "main":"server.js"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
